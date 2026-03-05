@@ -1,7 +1,7 @@
 {
   "name": "cypress",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "cypress.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,9 +11,8 @@
   "description": "",
   "devDependencies": {
     "cypress": "^15.11.0"
+  },
+  "dependencies": {
+    "systeminformation": "^5.31.3"
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1fc8d50cd8af6d6459dd45ca3ed77ec5a673b216
