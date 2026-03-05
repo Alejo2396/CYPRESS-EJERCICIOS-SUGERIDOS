@@ -12,4 +12,8 @@
   "devDependencies": {
     "cypress": "^15.11.0"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 1fc8d50cd8af6d6459dd45ca3ed77ec5a673b216
