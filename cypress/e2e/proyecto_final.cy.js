@@ -2,7 +2,7 @@ describe('Proyecto Final - Flujo Completo AVI', () => {
 
   it('Flujo completo de la aplicación', () => {
 
-    // 1️⃣ Abrir página de inicio
+    // 1️⃣ Abrir página de inicio..
     cy.visit('http://localhost:5173/')
     cy.wait(1000)
 
